@@ -16,7 +16,7 @@ We don't call a claim "false" if it's technically true. Many of the most effecti
 ## Entries
 
 - **["Guns are the leading cause of death for kids"](guns-leading-cause-of-death-kids.md)**: misleading. It's true only if you don't count the unborn. Abortion outnumbers gun deaths more than a hundred to one, and even the CDC's own figure counts 18- and 19-year-olds as "kids."
-- **["Assault weapons are the weapon of choice for criminals"](assault-weapons-weapon-of-choice.md)**: the FBI's own homicide tables say otherwise.
+- **["'Assault weapons' are the weapon of choice for criminals"](assault-weapons-weapon-of-choice.md)**: the FBI's own homicide tables say otherwise.
 
 ## Planned entries <span class="stub">(stubs, coming soon)</span>
 

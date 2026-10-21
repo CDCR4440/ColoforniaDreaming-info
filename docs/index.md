@@ -36,7 +36,7 @@ The blog and [@CDCR4440](https://x.com/CDCR4440) cover the news of the day. This
 
     ---
 
-    The fun section. Meet **Lock the Jackalope**, the endangered **Common Sense Lizard**, the dreaded **Good Idea Fairy**, and that most elusive beast of all, **The Assault Weapon**. These entries are satire, but any real-world fact in them is sourced.
+    The fun section. Meet **Lock the Jackalope**, the endangered **Common Sense Lizard**, the dreaded **Good Idea Fairy**, and that most elusive beast of all, **The "Assault Weapon"**. These entries are satire, but any real-world fact in them is sourced.
 
 </div>
 

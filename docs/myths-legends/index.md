@@ -15,7 +15,7 @@ Every frontier has its creatures. Some live in the sagebrush, some live in commi
 | **[Lock the Jackalope](lock-the-jackalope.md)** | *Lepus cornutus libertatis*, the horned hare of liberty | Rare, wary, well-antlered |
 | **[The Common Sense Lizard](common-sense-lizard.md)** | *Lacerta sensus communis* | **Endangered** |
 | **[The Good Idea Fairy](good-idea-fairy.md)** | *Nymphula memorandum* | Invasive; population exploding |
-| **[The Assault Weapon](assault-weapon.md)** | *Terribilis aspectus* ("frightening of appearance") | Legally defined in some states; biologically indistinct |
+| **[The "Assault Weapon"](assault-weapon.md)** | *Terribilis aspectus* ("frightening of appearance") | Legally defined in some states; biologically indistinct |
 
 ## Planned entries <span class="stub">(stubs, coming soon)</span>
 
