@@ -53,7 +53,7 @@ Confirmed sightings of the lizard continue among **veterans, ranchers, small-bus
 5. **Free markets.**
 6. **The armed citizen.**
 
-> *"Remember… only **you** can prevent good ideas."*  
+> *"Join the movement to save the Common Sense Lizard and prevent another generation from falling victim to the evil and corrupt 'intellectuals'."*  
 > (Colofornia Dreaming Public Service Announcement)
 
 !!! tip "Coming soon: the animated PSA"
