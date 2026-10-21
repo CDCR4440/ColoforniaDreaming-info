@@ -1,0 +1,77 @@
+site_name: Colofornia Dreaming Wiki
+site_url: https://coloforniadreaming.info/
+site_description: History, receipts, and frontier legends. A pro-Constitution reference wiki from ColoforniaDreaming.com.
+site_author: Colofornia Dreaming
+copyright: >
+  &copy; 2026 Colofornia Dreaming &middot; Satire is labeled, facts are sourced &middot;
+  <a href="https://coloforniadreaming.com">ColoforniaDreaming.com</a> &middot;
+  <a href="https://x.com/CDCR4440">@CDCR4440</a>
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Lora
+    code: Roboto Mono
+  icon:
+    logo: material/book-open-page-variant
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to campfire (dark) mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to daylight mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - History:
+      - history/index.md
+      - "Russia 1917: From Bread to the Cheka": history/russia-1917-bread-to-cheka.md
+  - Narrative vs. Reality:
+      - narrative-vs-reality/index.md
+      - "\"Guns are the leading cause of death for kids\"": narrative-vs-reality/guns-leading-cause-of-death-kids.md
+      - "\"Assault weapons are the weapon of choice\"": narrative-vs-reality/assault-weapons-weapon-of-choice.md
+  - Myths & Legends:
+      - myths-legends/index.md
+      - Lock the Jackalope: myths-legends/lock-the-jackalope.md
+      - The Common Sense Lizard: myths-legends/common-sense-lizard.md
+      - The Good Idea Fairy: myths-legends/good-idea-fairy.md
+      - The Assault Weapon: myths-legends/assault-weapon.md
+  - About: about.md
