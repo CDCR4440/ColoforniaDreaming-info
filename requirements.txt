@@ -1,3 +1,4 @@
 mkdocs==1.6.1
 mkdocs-material==9.7.7
 playwright==1.64.0
+mkdocs-rss-plugin==1.19.0
