@@ -8,7 +8,7 @@ title: About
 
 ## Who's behind it
 
-Colofornia Dreaming is run by a combat veteran and Orthodox Christian who believes in the Constitution as written, the right of the people to keep and bear arms, free markets, and government that stays small and close to home. The name says what worries us: Colorado drifting toward California-style government, one "good idea" at a time.
+Colofornia Dreaming is a collective of citizens who revere this Republic and believe in the Constitution as written, the right of the people to keep and bear arms, free markets, and government that stays small and close to home. The name says what worries us: Colorado drifting toward California-style government, one "good idea" at a time.
 
 The site also keeps coming back to one historical comparison. From 1889 to 1920, Russia went from reform movements to revolution to the Cheka. That record is worth knowing when American socialist movements make similar promises today.
 
