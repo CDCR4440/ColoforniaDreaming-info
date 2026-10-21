@@ -1,0 +1,89 @@
+/* Frontier / earth-tone palette */
+:root {
+  --md-primary-fg-color: #6b3f1f;        /* saddle leather */
+  --md-primary-fg-color--light: #8a5a33;
+  --md-primary-fg-color--dark: #4a2a12;
+  --md-primary-bg-color: #fbf6ea;
+  --md-accent-fg-color: #b8862b;         /* brass / mustard */
+  --md-accent-fg-color--transparent: rgba(184, 134, 43, 0.12);
+}
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #faf5ea;        /* parchment */
+  --md-default-fg-color: #2e2418;
+  --md-default-fg-color--light: #5a4a38;
+  --md-typeset-a-color: #8a4b1c;
+  --md-code-bg-color: #f1e8d6;
+  --md-footer-bg-color: #3b2a1a;
+  --md-footer-bg-color--dark: #2c1f12;
+}
+[data-md-color-scheme="slate"] {
+  --md-hue: 30;
+  --md-default-bg-color: #1f1a15;
+  --md-typeset-a-color: #d9a54a;
+  --md-footer-bg-color: #15110d;
+}
+.md-header, .md-tabs { background-color: #6b3f1f; }
+.md-tabs { background-color: #5a3418; }
+.md-typeset h1 { color: #4a2a12; font-weight: 700; letter-spacing: .01em; }
+[data-md-color-scheme="slate"] .md-typeset h1 { color: #e2c08a; }
+.md-typeset h2 { border-bottom: 2px solid #d8c7a5; padding-bottom: .2em; color: #5a3418; }
+[data-md-color-scheme="slate"] .md-typeset h2 { color: #d9b47a; border-color: #4a3a28; }
+
+/* Field-guide "specimen card" for the Myths & Legends section */
+.specimen {
+  border: 2px solid #6b5a3e; background: #f3ead6; padding: .8em 1.1em; margin: 1em 0;
+  box-shadow: 4px 4px 0 #cdb991; font-family: Georgia, "Times New Roman", serif;
+}
+[data-md-color-scheme="slate"] .specimen { background: #2a231b; border-color: #8a7350; box-shadow: 4px 4px 0 #3a3024; }
+.specimen table { margin: 0 !important; }
+.specimen .status { color: #a3261b; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
+
+/* Satire banner */
+.satire {
+  background: repeating-linear-gradient(45deg, #f6e7c1, #f6e7c1 12px, #efdcab 12px, #efdcab 24px);
+  border-left: 6px solid #b8862b; padding: .6em 1em; font-weight: 600; margin: .5em 0 1.2em;
+}
+[data-md-color-scheme="slate"] .satire { background: #3a2f1e; color: #f0d9a8; }
+
+/* Sources footer on factual pages */
+.sources {
+  margin-top: 2.5em; padding: .8em 1.2em 1em; border-top: 3px double #8a6a45;
+  background: #f1e8d6; font-size: .72rem;
+}
+[data-md-color-scheme="slate"] .sources { background: #26201a; border-color: #6b5a3e; }
+.sources h2 { margin-top: .2em !important; border: none !important; font-size: 1.05rem; }
+.stub { color: #8a6a45; font-style: italic; font-size: .85em; }
+
+/* Home page hero */
+.hero { text-align: center; padding: 1.2em 0 .4em; }
+.hero p.tag { font-size: 1.15rem; font-style: italic; color: #6b5a3e; }
+
+/* Footnotes render as the page's "Sources" footer */
+.md-typeset .footnote {
+  margin-top: 2.5em; padding: .4em 1.2em .8em; border-top: 3px double #8a6a45;
+  background: #f1e8d6; font-size: .72rem; color: inherit;
+}
+[data-md-color-scheme="slate"] .md-typeset .footnote { background: #26201a; border-color: #6b5a3e; }
+.md-typeset .footnote::before {
+  content: "Sources"; display: block; font-size: 1.05rem; font-weight: 700;
+  color: #5a3418; margin: .6em 0 .2em; font-family: var(--md-text-font-family);
+}
+[data-md-color-scheme="slate"] .md-typeset .footnote::before { color: #d9b47a; }
+.md-typeset .footnote > hr { display: none; }
+
+/* Specimen cards: hide empty table header */
+.specimen thead { display: none; }
+.specimen .md-typeset__table, .specimen table { box-shadow: none; background: transparent; }
+/* Earth-tone admonitions */
+.md-typeset .admonition.tip, .md-typeset details.tip { border-color: #6b7a4b; }
+.md-typeset .tip > .admonition-title, .md-typeset .tip > summary { background-color: rgba(107,122,75,.14); }
+.md-typeset .tip > .admonition-title::before, .md-typeset .tip > summary::before { background-color: #6b7a4b; }
+.md-typeset .admonition.info, .md-typeset .admonition.note { border-color: #8a6a45; }
+.md-typeset .info > .admonition-title, .md-typeset .note > .admonition-title { background-color: rgba(138,106,69,.12); }
+.md-typeset .info > .admonition-title::before, .md-typeset .note > .admonition-title::before { background-color: #8a6a45; }
+.md-typeset .admonition.example { border-color: #b8862b; }
+.md-typeset .example > .admonition-title { background-color: rgba(184,134,43,.14); }
+.md-typeset .example > .admonition-title::before { background-color: #b8862b; }
+.md-typeset .admonition.quote { border-color: #a3261b; }
+.md-typeset .quote > .admonition-title { background-color: rgba(163,38,27,.08); }
+.md-typeset .quote > .admonition-title::before { background-color: #a3261b; }
