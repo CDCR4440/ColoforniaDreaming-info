@@ -16,7 +16,7 @@ title: 'The "Assault Weapon"'
 | **Closest relatives** | Ordinary semi-automatic rifles, pistols and shotguns, from which it is **mechanically indistinguishable** |
 | **Often confused with** | The "*assault rifle*" (a different, selective-fire animal, heavily regulated since 1934) |
 | **Identified by** | Its accessories |
-| **Status** | <span class="status">Legally defined in some jurisdictions; biologically elusive</span> |
+| **Status** | <span class="status">Legally defined in some jurisdictions; realistically undiscovered</span> |
 
 </div>
 
