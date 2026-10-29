@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coloforniadreaming.info/sitemap.xml

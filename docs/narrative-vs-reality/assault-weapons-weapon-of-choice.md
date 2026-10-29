@@ -1,4 +1,5 @@
 ---
+description: "Are \"assault weapons\" the weapon of choice for criminals? FBI homicide tables and the DOJ study of the 1994 ban say no. Sourced fact check."
 title: "\"'Assault weapons' are the weapon of choice\""
 ---
 

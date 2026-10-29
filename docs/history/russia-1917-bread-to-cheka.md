@@ -1,4 +1,5 @@
 ---
+description: "How Russia went from the February 1917 bread lines to the Cheka secret police in ten months, with Old Style/New Style dates and primary sources."
 title: "Russia 1917: From Bread to the Cheka"
 ---
 

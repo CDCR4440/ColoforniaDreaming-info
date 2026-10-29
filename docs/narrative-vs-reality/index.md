@@ -1,4 +1,5 @@
 ---
+description: "Narrative vs. Reality: common gun-control claims checked against primary data from the FBI, CDC and DOJ, with sources linked."
 title: Narrative vs. Reality
 ---
 

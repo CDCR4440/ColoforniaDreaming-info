@@ -1,5 +1,6 @@
 ---
-title: Home
+description: "Colofornia Dreaming Wiki: sourced history, Narrative vs. Reality fact checks on guns and the Second Amendment, and labeled frontier satire."
+title: "Second Amendment History & Fact Checks"
 hide:
   - toc
 ---

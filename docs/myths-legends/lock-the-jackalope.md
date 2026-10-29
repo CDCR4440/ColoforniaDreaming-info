@@ -1,4 +1,5 @@
 ---
+description: "Meet Lock the Jackalope, the horned hare of liberty and Colofornia Dreaming's mascot, named for the flintlock musket. Labeled satire."
 title: Lock the Jackalope
 ---
 

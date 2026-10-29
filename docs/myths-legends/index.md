@@ -1,4 +1,5 @@
 ---
+description: "A frontier field guide to political creatures: Lock the Jackalope, the Common Sense Lizard, the Good Idea Fairy, the Griffin and more. Labeled satire."
 title: Myths & Legends
 ---
 

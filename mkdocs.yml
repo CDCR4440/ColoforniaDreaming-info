@@ -9,6 +9,7 @@ copyright: >
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   font:
     text: Lora
@@ -38,6 +39,22 @@ theme:
     - search.highlight
     - toc.follow
     - content.tooltips
+
+extra:
+  # Paste the content="..." value from Google Search Console / Bing Webmaster
+  # (HTML tag method) here if you verify by meta tag instead of DNS.
+  google_site_verification: ""
+  bing_site_verification: ""
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/CDCR4440
+      name: "@CDCR4440 on X"
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ColoforniaDreaming
+      name: Colofornia Dreaming on YouTube
+    - icon: simple/substack
+      link: https://coloforniadreaming.substack.com/
+      name: Colofornia Dreaming on Substack
 
 extra_css:
   - stylesheets/extra.css
