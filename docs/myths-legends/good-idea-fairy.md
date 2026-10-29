@@ -1,4 +1,5 @@
 ---
+description: "Satire field guide entry: the Good Idea Fairy, who sprays memos, mandates and unintended consequences on Colorado. Labeled satire."
 title: The Good Idea Fairy
 ---
 

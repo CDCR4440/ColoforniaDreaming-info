@@ -1,4 +1,5 @@
 ---
+description: "Who runs ColoforniaDreaming.info: a pro-Constitution, pro-2A collective in Colorado, our mascots, how we source facts, and how to send corrections."
 title: About
 ---
 

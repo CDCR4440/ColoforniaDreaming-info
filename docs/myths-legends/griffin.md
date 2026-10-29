@@ -1,4 +1,5 @@
 ---
+description: "Satire field guide entry: the Griffin, watcher of gold, whose nest is lined with other people's treasure. Labeled satire."
 title: The Griffin
 ---
 

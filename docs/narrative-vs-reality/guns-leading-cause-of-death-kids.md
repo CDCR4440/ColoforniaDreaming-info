@@ -1,4 +1,5 @@
 ---
+description: "Are guns the leading cause of death for kids? What the CDC figure counts, what it leaves out, and the ages it includes. Sourced fact check."
 title: "\"Guns are the leading cause of death for kids\""
 ---
 

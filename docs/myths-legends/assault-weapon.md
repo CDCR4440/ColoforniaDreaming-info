@@ -1,4 +1,5 @@
 ---
+description: "Satire field guide entry: the \"Assault Weapon\", a creature defined by how it looks rather than how it works. Labeled satire with real sources."
 title: 'The "Assault Weapon"'
 ---
 

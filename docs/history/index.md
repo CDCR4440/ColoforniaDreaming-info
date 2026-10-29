@@ -1,4 +1,5 @@
 ---
+description: "History with receipts: the American founding and the right to bear arms, set beside Russia's road from famine and revolution to the Cheka."
 title: History
 ---
 

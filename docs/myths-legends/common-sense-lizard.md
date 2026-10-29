@@ -1,4 +1,5 @@
 ---
+description: "Satire field guide entry: the Common Sense Lizard, who grows bigger in every crisis and always has one more gun law. Labeled satire."
 title: The Common Sense Lizard
 ---
 

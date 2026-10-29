@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {%- set page_title = page.meta.title if page and page.meta and page.meta.title else (page.title if page and page.title else config.site_name) -%}
+  {%- set page_desc = page.meta.description if page and page.meta and page.meta.description else config.site_description -%}
+  {%- set page_url = page.canonical_url if page and page.canonical_url else config.site_url -%}
+  {%- set share_image = config.site_url ~ "assets/images/social-card.png" -%}
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:type" content="{% if page and page.is_homepage %}website{% else %}article{% endif %}">
+  <meta property="og:title" content="{{ page_title | e }}">
+  <meta property="og:description" content="{{ page_desc | e }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ share_image }}">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@CDCR4440">
+  <meta name="twitter:title" content="{{ page_title | e }}">
+  <meta name="twitter:description" content="{{ page_desc | e }}">
+  <meta name="twitter:image" content="{{ share_image }}">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  {%- if config.extra.google_site_verification %}
+  <meta name="google-site-verification" content="{{ config.extra.google_site_verification }}">
+  {%- endif %}
+  {%- if config.extra.bing_site_verification %}
+  <meta name="msvalidate.01" content="{{ config.extra.bing_site_verification }}">
+  {%- endif %}
+  {%- if page and page.is_homepage %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://coloforniadreaming.com/#org",
+        "name": "Colofornia Dreaming",
+        "url": "https://coloforniadreaming.com/",
+        "slogan": "Faith of our fathers. Rights of our founders.",
+        "sameAs": [
+          "https://x.com/CDCR4440",
+          "https://www.youtube.com/@ColoforniaDreaming",
+          "https://coloforniadreaming.substack.com/",
+          "https://coloforniadreaming.info/"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "name": "{{ config.site_name }}",
+        "url": "{{ config.site_url }}",
+        "description": "{{ config.site_description }}",
+        "publisher": { "@id": "https://coloforniadreaming.com/#org" }
+      }
+    ]
+  }
+  </script>
+  {%- endif %}
+{% endblock %}
