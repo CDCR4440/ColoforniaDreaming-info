@@ -17,6 +17,8 @@ Howdy, and welcome to the reference desk of [ColoforniaDreaming.com](https://col
 
 The blog and [@CDCR4440](https://x.com/CDCR4440) cover the news of the day. This wiki holds the background: dates, documents and numbers you can check, plus links to where they came from. It's written from a pro-Constitution, pro-Second Amendment, pro-free-market point of view, and we say so up front. The facts don't need a point of view, though, so every factual page ends with a **Sources** box. If a source doesn't support what we wrote, we want to hear about it.
 
+**New:** :material-newspaper-variant: **[2A News](news/index.md)** sums up official releases from GOA, FPC, CSSA, NRA-ILA and the ATF, with a link to every source.
+
 ## Three sections
 
 <div class="grid cards" markdown>
