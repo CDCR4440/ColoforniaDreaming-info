@@ -13,6 +13,7 @@ The American founding put the right to keep and bear arms in writing. Russia's r
 ## Articles
 
 - **[Russia 1917: From Bread to the Cheka](russia-1917-bread-to-cheka.md)**: how ten months took Russia from bread-line protests to a secret police that could take away your ration card.
+- **[1938 Germany: Registration Before Confiscation](1938-germany-registration-before-confiscation.md)**: how gun records kept by a democratic republic became a list for disarming Jews and political opponents.
 
 ## Planned articles <span class="stub">(stubs, coming soon)</span>
 
