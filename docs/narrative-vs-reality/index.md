@@ -18,6 +18,7 @@ We don't call a claim "false" if it's technically true. Many of the most effecti
 
 - **["Guns are the leading cause of death for kids"](guns-leading-cause-of-death-kids.md)**: misleading. It's true only if you don't count the unborn. Abortion outnumbers gun deaths more than a hundred to one, and even the CDC's own figure counts 18- and 19-year-olds as "kids."
 - **["'Assault weapons' are the weapon of choice for criminals"](assault-weapons-weapon-of-choice.md)**: the FBI's own homicide tables say otherwise.
+- **["Universal background checks stop criminals"](universal-background-checks-stop-criminals.md)**: mostly not. Nine in ten armed prisoners got their gun outside retail, and almost no denied buyers are prosecuted.
 
 ## Planned entries <span class="stub">(stubs, coming soon)</span>
 
@@ -25,12 +26,11 @@ We don't call a claim "false" if it's technically true. Many of the most effecti
 2. *"The Second Amendment is about the National Guard."* The militia, "the people," and the Court's reading. <span class="stub">stub</span>
 3. *"No one needs a standard-capacity magazine."* What the data says about magazines and defensive gun use. <span class="stub">stub</span>
 4. *"Gun-show loophole."* What federal law requires of dealers and of private sellers. <span class="stub">stub</span>
-5. *"Universal background checks would have stopped [shooting X]."* Case-by-case look at how the guns were obtained. <span class="stub">stub</span>
-6. *"Defensive gun uses are a myth."* The surveys, the ranges, and why estimates differ. <span class="stub">stub</span>
-7. *"Ghost guns are untraceable weapons of mass destruction."* Home-built firearms in federal law and in the data. <span class="stub">stub</span>
-8. *"Real socialism has never been tried."* What the Bolsheviks promised in 1917 and what they put on paper. <span class="stub">stub</span>
-9. *"Democratic socialism is just Scandinavia."* What Nordic governments themselves say about their market economies. <span class="stub">stub</span>
-10. *"City-owned grocery stores will lower prices."* The record of municipal and state-run stores. <span class="stub">stub</span>
-11. *"Rent control makes housing affordable."* What economists across the spectrum have found. <span class="stub">stub</span>
-12. *"Colorado is a low-tax state."* Fees, TABOR and the numbers behind the claim. <span class="stub">stub</span>
-13. *"Red flag laws only take guns from dangerous people."* Due process, hearings and how often petitions are denied. <span class="stub">stub</span>
+5. *"Defensive gun uses are a myth."* The surveys, the ranges, and why estimates differ. <span class="stub">stub</span>
+6. *"Ghost guns are untraceable weapons of mass destruction."* Home-built firearms in federal law and in the data. <span class="stub">stub</span>
+7. *"Real socialism has never been tried."* What the Bolsheviks promised in 1917 and what they put on paper. <span class="stub">stub</span>
+8. *"Democratic socialism is just Scandinavia."* What Nordic governments themselves say about their market economies. <span class="stub">stub</span>
+9. *"City-owned grocery stores will lower prices."* The record of municipal and state-run stores. <span class="stub">stub</span>
+10. *"Rent control makes housing affordable."* What economists across the spectrum have found. <span class="stub">stub</span>
+11. *"Colorado is a low-tax state."* Fees, TABOR and the numbers behind the claim. <span class="stub">stub</span>
+12. *"Red flag laws only take guns from dangerous people."* Due process, hearings and how often petitions are denied. <span class="stub">stub</span>
